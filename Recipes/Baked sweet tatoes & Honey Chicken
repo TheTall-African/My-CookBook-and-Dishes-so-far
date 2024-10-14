@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Making Sweet Tatoes & Honey Chicken</title>
+    
+</head>
+
+<body>
+    <h1>Sweet Tatoes & Honey Chicken</h1>
+    <img src="https://www.lecremedelacrumb.com/wp-content/uploads/2017/10/honey-roasted-chicken-sweet-potatoes-skillet-102.jpg">
+
+    <h2>Description</h2>
+        <p>Yummy Yummy sweet potatoes covered with honey and lit fresh with pepper. Best paired with chicken that is baked to the core and dripping in honey with a side of HOT!</p>
+    <h3>Ingredients</h3>
+        <ul><li>One fresh tuber of potato</li>
+            <li>Two fresh chicken thighs</li>
+            <li>One cup of honey</li>
+            <li>3 tablespoons of suya pepper</li>
+            <li>1/8 tablespoon of butter</li>
+        </ul>
+    <h3>Steps</h3>
+        <ol>
+            <li>
+        </ol>
+</body>
+
+</html>
